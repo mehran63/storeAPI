@@ -19,5 +19,5 @@ Instruction to add required authorization header:
   "password": "Not for production use, DEMO ONLY!"
 }
 ````
-2. Open  the root address ```https://localhost:44361``` and click on ````Authorize```` button on the left-top corner and enter 'Bearer <token>', replace <token> with the copied token from the previous step.
+2. Open  the root address ```https://localhost:44361``` and click on ````Authorize```` button on the left-top corner and enter 'Bearer __token__', replace __token__ with the copied token from the previous step.
 3. Click ````Authorize````. You should be able to access all the APIs listed under ```Products``` now.
